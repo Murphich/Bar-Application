@@ -1,0 +1,10 @@
+\\psf\Home\Documents\Visual Studio 2013\Projects\SolasApplicationSln\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+\\psf\Home\Documents\Visual Studio 2013\Projects\SolasApplicationSln\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\SolasApplicationSln\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+\\psf\Home\Documents\Visual Studio 2013\Projects\SolasApplicationSln\DataAccessLayer\bin\Debug\EntityFramework.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\SolasApplicationSln\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\SolasApplicationSln\DataAccessLayer\bin\Debug\EntityFramework.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\SolasApplicationSln\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+\\psf\Home\Documents\Visual Studio 2013\Projects\SolasApplicationSln\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+\\psf\Home\Documents\Visual Studio 2013\Projects\SolasApplicationSln\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+\\psf\Home\Documents\Visual Studio 2013\Projects\SolasApplicationSln\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
